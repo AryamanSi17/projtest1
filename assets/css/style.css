@@ -56,11 +56,13 @@ margin-left: 180px;
 }
 .box.bottom.right{
   width: 297px;
-  height: 191px;
+  height: 174px;
   display: inline-block;
   background-color: #0e2442;
   z-index: index 0;
 margin-left: 79px;
+margin-bottom: 0.5rem;
+
 }
 .lefty{
   margin-left: 117px;
